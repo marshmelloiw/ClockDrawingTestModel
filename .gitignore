@@ -1,0 +1,5 @@
+# Dataset klasörü
+clock_shulman/
+
+# Model dosyaları
+*.h5
